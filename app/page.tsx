@@ -16,7 +16,7 @@ export default function Home() {
             className={`${GeistMono.className} text-gray-300 space-y-6 text-lg leading-relaxed`}
           >
             <p>
-              We're thrilled to announce <strong>Frento Apps</strong>, an
+              We&apos;re thrilled to announce <strong>Frento Apps</strong>, an
               innovative agency comprised of forward-thinking developers
               dedicated to revolutionizing the landscape of web applications
               worldwide. Our mission is to craft{" "}
@@ -24,7 +24,7 @@ export default function Home() {
               change across industries.
             </p>
             <div>
-              At Frento Apps, we're committed to:
+              At Frento Apps, we&apos;re committed to:
               <ul className="mt-2 space-y-1">
                 <li>• Pushing the boundaries of web technology</li>
                 <li>• Creating intuitive and engaging user experiences</li>
@@ -35,7 +35,7 @@ export default function Home() {
               Join us on this exciting journey as we shape the future of web
               development.{" "}
               <u>
-                Your vision, our expertise – together, we'll make waves in the
+                Your vision, our expertise – together, we&apos;ll make waves in the
                 digital realm.
               </u>
             </p>
